@@ -1,13 +1,16 @@
 # Eating Tom
 Eating Tom is a 2D platform game created using C# in Unity3D.
 
-# Game Play
-The player has to catch the maximum number of small fish as possible before the time runs out. If the player catches any big fish, their lives will start reducing. The game would be over if the player loses three lives.
+# How to play?
+Use the left and right arrows to move left and right on the screen. The player has to catch the maximum number of small fish as possible before the time runs out. If the player catches any big fish, their lives will start reducing. The game would be over if the player loses three lives.
 
 # Technologies used
  * The environment is crated using 3D models from the internet and modified using Blender3D. 
  * The animations are coded using C# in Unity3D.
  * The game has been hosted in UnityPlay directly using Unity's WebGL build.
+
+# Gameplay video
+https://user-images.githubusercontent.com/99459415/184810333-9dfc8fd3-ecf9-4d8c-8cd4-f95b4e85e61a.mp4
 
 # Snap Shots
 
