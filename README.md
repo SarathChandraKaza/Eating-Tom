@@ -23,4 +23,4 @@ https://user-images.githubusercontent.com/99459415/184810333-9dfc8fd3-ecf9-4d8c-
 ## Scoreboard
 ![tom3](https://user-images.githubusercontent.com/99459415/184809264-8bc663cb-0c64-4160-b08c-ad6f91f72af1.jpg)
 
-## Note: This is my first project in Unity and so the game might be a little messy. And also I lost my project files in a system crash and hence couldn't upload them here. 
+#### Note: This is my first project in Unity and so the game might be a little messy. And also I lost my project files in a system crash and hence couldn't upload them here. 
